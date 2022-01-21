@@ -1,0 +1,87 @@
+.logo{
+    color:purple ;
+    padding: 10px;
+    text-align: left;
+    margin-left: 9px;
+}
+.topnav{
+    block-size: 60px;
+    background: white
+}
+.text{
+    font-size: 37px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-align: left;
+    color: currentColor;
+    text-decoration: none;
+}
+.nav{
+    text-align: end;
+    margin-top: -45px;
+    margin-right: 15px;
+}
+.link{
+    color: darkblue;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 13px;
+}
+.link:hover{
+    color: red;
+}
+.pic{
+    text-align: right;
+    margin-right: 25px;
+    margin-top: -370px;
+}
+.picture{
+    width: 650px;
+}
+.text-indigo-600{
+    --tw-text-opacity: 1;
+    color: rgba(79,70,229,var(--tw-text-opacity));
+    box-sizing: border-box;
+    border: 0 solid;
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    font-weight: 600;
+    text-align: left;
+    margin: 0 auto;
+}
+.wel{
+    font-size: 30px;
+    margin-left: 170px;
+    margin-top: 90px;
+}
+.intro{
+    margin: 50px;
+    font-size: 19px;
+    margin-right: 750px;
+    text-align: center;
+}
+.butt{
+    text-align: center;
+    margin-right: 800px;
+}
+.button{
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    --tw-text-opacity: 1;
+    color: rgba(229,231,235,var(--tw-text-opacity));
+    font-weight: 600;
+    font-size: .75rem;
+    line-height: 1rem;
+    --tw-bg-opacity: 1;
+    background-color: rgba(17,24,39,var(--tw-bg-opacity));
+    border-radius: 0.25rem;
+    cursor: pointer;
+    background-image: none;
+    -webkit-appearance: button;
+    text-transform: none;
+}
+.button:hover{
+    color: red;
+}
